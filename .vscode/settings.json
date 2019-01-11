@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4f64f350-1da9-4458-8989-a8745de126d0/resourceGroups/GarApp/providers/Microsoft.Web/sites/GarApp",
+    "appService.deploySubpath": ""
+}
